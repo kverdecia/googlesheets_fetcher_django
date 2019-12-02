@@ -1,0 +1,16 @@
+.vscode/*
+.idea/*
+db.sqlite3
+
+/media/
+/localsettings.py
+/localsettingsold.py
+/project-static
+
+*.pyc
+
+certs/*
+
+caddy
+/Caddyfile
+/supervisor
